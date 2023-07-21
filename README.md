@@ -49,7 +49,7 @@ android + back-end
 
 ---
 
-### Andriod Study
+### Android Study
 
 jetpack lib 개인 스터디 
 
@@ -64,6 +64,7 @@ jetpack lib 개인 스터디
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minju0426)](https://solved.ac/minju0426)
 
 [코테 정리](https://github.com/minjukit/TIL)
+
 [알고리즘 스터디](https://github.com/Algozzang/algorithm-study)
 
 <br><br>
